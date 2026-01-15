@@ -1,6 +1,9 @@
-<div align="center">
-
+<table>
+<tr>
+<td width="200px" valign="top">
 <img src="https://github.com/VincentShipsIt.png" width="200" height="200" style="border-radius: 50%;" alt="@VincentShipsIt">
+</td>
+<td valign="top">
 
 # Hi, I'm Vincent
 
@@ -9,8 +12,11 @@
 [![Website](https://img.shields.io/badge/Website-shipshit.dev-2D2D2D?style=flat-square&logo=vercel&logoColor=white)](https://shipshit.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@vincentshipsit-2D2D2D?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vincentshipsit)
 [![GenFeed](https://img.shields.io/badge/GenFeed-@genfeedai-2D2D2D?style=flat-square&logoColor=white)](https://genfeed.ai/u/genfeedai)
+[![GitHub](https://img.shields.io/badge/GitHub-@VincentShipsIt-2D2D2D?style=flat-square&logo=github&logoColor=white)](https://github.com/VincentShipsIt)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,14 +61,6 @@ AI Agent tracker Widget for macOS
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Let's Connect
-
-- **Website**: [shipshit.dev](https://shipshit.dev)
-- **Twitter**: [@vincentshipsit](https://twitter.com/vincentshipsit)
-- **GenFeed**: [@genfeedai](https://genfeed.ai/u/genfeedai)
-- **GitHub**: [@VincentShipsIt](https://github.com/VincentShipsIt)
-
----
 
 <div align="center">
 
