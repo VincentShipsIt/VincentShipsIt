@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-shipshit.dev-2D2D2D?style=flat-square&logo=vercel&logoColor=white)](https://shipshit.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@vincentshipsit-2D2D2D?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vincentshipsit)
-[![GenFeed](https://img.shields.io/badge/GenFeed-@genfeedai-2D2D2D?style=flat-square&logoColor=white)](https://genfeed.ai/u/genfeedai)
+[![GenFeed](https://img.shields.io/badge/GenFeed-@genfeedai-2D2D2D?style=flat-square&logoColor=white)](https://genfeed.ai)
 [![GitHub](https://img.shields.io/badge/GitHub-@VincentShipsIt-2D2D2D?style=flat-square&logo=github&logoColor=white)](https://github.com/VincentShipsIt)
 
 ---
@@ -29,7 +29,7 @@ I create tools that help developers ship faster with AI.
 
 ## Featured Projects
 
-[![GenFeed](https://cdn.genfeed.ai/assets/cards/default.jpg)](https://genfeed.ai/u/genfeedai)
+[![GenFeed](https://cdn.genfeed.ai/assets/cards/default.jpg)](https://genfeed.ai)
 
 AI platform for creating videos, images, and marketing content at scale
 
