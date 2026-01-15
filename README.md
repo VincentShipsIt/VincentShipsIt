@@ -1,28 +1,21 @@
-<table>
-<tr>
-<td width="200px" valign="top">
-<img src="https://github.com/VincentShipsIt.png" width="200" height="200" style="border-radius: 50%;" alt="@VincentShipsIt">
-</td>
-<td valign="top">
-
 # Hi, I'm Vincent
 
-**Agentic Founder** building tools for AI-powered development
+**Agentic Founder** building AI tools for developers
+
+> "I can build everything. I will ship what I should."
 
 [![Website](https://img.shields.io/badge/Website-shipshit.dev-2D2D2D?style=flat-square&logo=vercel&logoColor=white)](https://shipshit.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@vincentshipsit-2D2D2D?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vincentshipsit)
 [![GenFeed](https://img.shields.io/badge/GenFeed-@genfeedai-2D2D2D?style=flat-square&logoColor=white)](https://genfeed.ai/u/genfeedai)
 [![GitHub](https://img.shields.io/badge/GitHub-@VincentShipsIt-2D2D2D?style=flat-square&logo=github&logoColor=white)](https://github.com/VincentShipsIt)
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## About Me
 
-I'm an **Agentic Founder** passionate about building AI-powered tools and developer experiences. I create products that help developers ship faster and work smarter with AI agents.
+I've built businesses for 15 years, exited one, and now use AI to build faster.
+
+I create tools that help developers ship faster with AI.
 
 ## Tech Stack
 
@@ -38,7 +31,7 @@ I'm an **Agentic Founder** passionate about building AI-powered tools and develo
 
 [![GenFeed](https://cdn.genfeed.ai/assets/cards/default.jpg)](https://genfeed.ai/u/genfeedai)
 
-AI-powered content generation platform for creating professional videos, images, and marketing materials at scale
+AI platform for creating videos, images, and marketing content at scale
 
 [![Kaiban Board](https://cdn.shipshit.dev/kaibanboard.com/cards/default.jpg)](https://kaibanboard.com/)
 
@@ -46,7 +39,7 @@ Visualize markdown tasks from `.agent/TASKS/` in a Kanban board
 
 [![Meter Bar](https://cdn.shipshit.dev/meterbar.app/cards/default.jpg)](https://meterbar.app/)
 
-AI Agent tracker Widget for macOS
+macOS menu bar widget to track AI usage limits
 
 ## GitHub Achievements
 
@@ -66,6 +59,6 @@ AI Agent tracker Widget for macOS
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VincentShipsIt&color=2D2D2D&style=flat-square)
 
-**Building the future of AI-powered development**
+**Building AI tools for developers**
 
 </div>
